@@ -1,0 +1,38 @@
+{
+  "NV001": {
+    "thong_tin_co_ban": {
+      "ten": "Nguyễn Thanh Hải",
+      "tuoi": 40,
+      "gioi_tinh": "Nam"
+    },
+    "chi_tiet_cong_viec": {
+      "chuc_danh": "Giám đốc Vận hành",
+      "phong_ban": "Điều hành",
+      "kinh_nghiem": "15 năm"
+    }
+  },
+  "KH002": {
+    "thong_tin_co_ban": {
+      "ten": "Trần Thu Hằng",
+      "tuoi": 28,
+      "email": "hang.t@example.com"
+    },
+    "du_lieu_mua_hang": {
+      "tong_giao_dich": 25,
+      "san_pham_chinh": ["Thời trang", "Mỹ phẩm"],
+      "loai_khach_hang": "VIP"
+    }
+  },
+  "DA003": {
+    "thong_tin_co_ban": {
+      "ten_du_an": "Phát triển Nền tảng Đám mây",
+      "ngay_bat_dau": "2025-01-10",
+      "ngan_sach_trieu": 500
+    },
+    "chi_tiet_quan_ly": {
+      "quan_ly": "Phạm Văn Tuấn",
+      "doi_ngu": ["Lập trình viên", "Kiểm thử viên"],
+      "trang_thai": "Đang tiến hành"
+    }
+  }
+}
